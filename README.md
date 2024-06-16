@@ -8,7 +8,7 @@ Ahmed Sabry</a></h1>
 <hr>
 <br>
  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <h3>About me</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=A7medS3bry&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-M-Sabry&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -102,18 +102,18 @@ Ahmed Sabry</a></h1>
 <br><br><br><br><br><br><br>
 ⚙️ &nbsp;GitHub Analytics
 
-| ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=A7medS3bry&show_icons=true&theme=tokyonight) | ![Ahmed GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=A7medS3bry&theme=tokyonight) |
+| ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=Ahmed-M-Sabry&show_icons=true&theme=tokyonight) | ![Ahmed GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-M-Sabry&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A7medS3bry&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=A7medS3bry&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-M-Sabry&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Ahmed-M-Sabry&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
 
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
-	<a href="mailto:coder.ahmed.sabry@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:a7med.mohamed.sabri@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
-<a href="https://github.com/A7medS3bry">
+<a href="https://github.com/Ahmed-M-Sabry">
     <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
