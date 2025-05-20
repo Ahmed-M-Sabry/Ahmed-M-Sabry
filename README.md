@@ -120,7 +120,7 @@ Ahmed Sabry</a></h1>
     <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
 </a>
 
-<a href="https://www.linkedin.com/in/a7med-sabry/">
+<a href="https://www.linkedin.com/in/a7medsabrii/">
     <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
